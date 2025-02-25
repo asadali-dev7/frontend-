@@ -24,8 +24,3 @@ Check out the **live demo** [here](https://your-live-demo-link.com).
 ## 🛠️ Built With
 - **HTML5** - Semantic structure
 - **CSS3** - Custom styles and responsiveness
-
-## 📂 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AM-gitco/bento-grid.git
